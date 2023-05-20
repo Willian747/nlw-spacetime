@@ -2,7 +2,7 @@
   <img src=".github/preview.png" alt="Demo do projeto" wigth="100%" />
 </p>
 
-## #&128187 Projeto
+## #&1F4BB Projeto
 Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir lembranças em uma timeline.
 
 ## #&1F680 Tecnologias
