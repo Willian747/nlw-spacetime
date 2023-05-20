@@ -5,7 +5,7 @@
 ## #&128187 Projeto
 Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir lembranças em uma timeline.
 
-## #&128640 Tecnologias
+## #&1F680 Tecnologias
 Esse projeto foi desenvolvido durante o NLW da Rocketseat usando as seguintes tecnologias:
 
 - HTML;
